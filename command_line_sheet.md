@@ -1,0 +1,52 @@
+
+# Command Line Cheat Sheet #
+
+
+## Terminal   
+
+Is a quick and executes commands which can't be used in graphic interfaces.
+The terminal is also reffered to as a shell and the language it uses is bash.
+
+
+### List of Commands used in the Terminal: 
+
+**pwd** -> Stands for print working directory, and it's used to find out what folder we are currently in.
+
+
+**ls** -> lists all files and folders
+**ls -l** -> Gives more details about the file, gives information about the permission level.
+
+
+**ls -al** -> A list of files and folders including hidden file
+
+
+**cd** -> Takes you back to where you orginally were.
+
+### List of Commands Specifically used for creating files and folders:
+
+**mkdir** -> A sort of abbrevation of make directory 
+**touch** -> allows you to create a new file 
+
+### List of Commands Specifically used to open files:
+
+**open** -> Will use whatever the default program for that type of file is to open it.
+
+### List of Commands specifically used to manipulate files and folders"
+**mv** -> Is used to move a file.
+
+**.. **-> Two dots meanss the directory above this one.
+
+**.** -> A single dot means this directory 
+**cp** -> Is used to make a copy of a file.
+
+**rm** -> Is used to delete a file. 
+
+### List of Commands specifically used for Git:
+**git init** -> Short for initialise, creates a new Git repository.
+
+**git commit** -> used to make a commit.
+
+**-m** -> Is used to provide a high-level description of which files have changed.
+
+**git add .** -> Adds a change in the working directory to the staging area.
+**git log** -> Shows us a history of what has happened in our repository so far.
