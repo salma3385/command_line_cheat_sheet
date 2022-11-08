@@ -15,3 +15,10 @@ touch -> allows you to create a new file
 
 List of Commands Specifically used to open files:
 open -> Will use whatever the default program for that type of file is to open it.
+
+List of Commands specifically used to manipulate files and folders"
+mv -> Is used to move a file.
+.. -> Two dots meanss the directory above this one.
+. -> A single dot means this directory 
+cp -> Is used to make a copy of a file.
+rm -> Is used to delete a file t 
