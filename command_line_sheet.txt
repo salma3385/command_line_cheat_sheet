@@ -1,0 +1,11 @@
+Terminal -> Is a quick and executes commands which can't be used in graphic interfaces.
+            The terminal is also reffered to as a shell and the language it uses is bash.
+
+
+List of Commands used in the Terminal:
+pwd -> Stands for print working directory, and it's used to find out what folder we are currently in.
+ls -> lists all files and folders
+ls -l -> Gives more details about the file, gives information about the permission level.
+ls -al -> A list of files and folders including hidden file
+cd -> Takes you back to where you orginally were.
+
