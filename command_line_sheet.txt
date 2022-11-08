@@ -12,3 +12,6 @@ cd -> Takes you back to where you orginally were.
 List of Commands Specifically used for creating files and folders:
 mkdir -> A sort of abbrevation of make directory 
 touch -> allows you to create a new file 
+
+List of Commands Specifically used to open files:
+open -> Will use whatever the default program for that type of file is to open it.
