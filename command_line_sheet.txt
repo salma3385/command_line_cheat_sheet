@@ -22,3 +22,10 @@ mv -> Is used to move a file.
 . -> A single dot means this directory 
 cp -> Is used to make a copy of a file.
 rm -> Is used to delete a file t 
+
+List of Commands specifically used for Git:
+git init -> Short for initialise, creates a new Git repository.
+git commit -> used to make a commit.
+-m -> Is used to provide a high-level description of which files have changed.
+git add -> Adds a change in the working directory to the staging area.
+git log -> Shows us a history of what has happened in our repository so far.
